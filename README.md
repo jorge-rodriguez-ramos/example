@@ -4,10 +4,8 @@ Sample of AFM data from experiments with Kruno on Jurkat cells, treated with 50 
 
 I have included: 
 
-1. The raw data of two sessions of force spectroscopy experiments, on the JPK AFM
-
 1. The .tsv files of bulk processing of the force curves with AtomicJ
 
 1. Jupyter notebook with data processing
 
-1. An independent webpage.  
+1. MD for webpage visaulization 
