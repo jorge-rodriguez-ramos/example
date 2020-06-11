@@ -8,4 +8,4 @@ I have included:
 
 1. Jupyter notebook with data processing
 
-1. MD for webpage visaulization 
+1. HTML webpage visaulization 
